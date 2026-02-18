@@ -40,8 +40,8 @@ Mən proqram təminatı inkişafı və sistem idarəetməsi ilə maraqlanan bir 
 ---
 
 ### 📫 Mənimlə əlaqə
-- **Email:** [Sənin Email Ünvanın]
-- **Instagram:** [Biznes Səhifən üçün Link]
+- **Email:** [yahyacalilovnaa@gmail.com]
+
 
 <p align="center">
   <i>"Kod hər kəs tərəfindən yazıla bilər, amma təmiz kod sənətdir."</i>
