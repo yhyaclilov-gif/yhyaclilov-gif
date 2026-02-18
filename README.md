@@ -34,8 +34,6 @@ Mən proqram təminatı inkişafı və sistem idarəetməsi ilə maraqlanan bir 
 
 
 
----
-
 ### 📫 Mənimlə əlaqə
 - **Email:** [yahyacalilovnaa@gmail.com]
 
